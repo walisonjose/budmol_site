@@ -2,7 +2,7 @@
 session_start();
 require '_app/Config.inc.php';
 
- //asd
+ 
 
 ?>
 
@@ -13,7 +13,7 @@ require '_app/Config.inc.php';
 <html data-wf-page="5d39a3ab872e336152b66cda" data-wf-site="5d39a3ab872e3368dcb66cd9">
 <head>
   <meta charset="utf-8">
-  <title>Budmol Digital</title>
+  <title>Budmol Digital2</title>
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
